@@ -1,0 +1,6 @@
+name = DrupalCorn Camp Panes
+description = A badge pane for DrupalCorn.
+core = 7.x
+package = DrupalCorn
+version = 7.x-1.0
+dependencies[] = ctools
